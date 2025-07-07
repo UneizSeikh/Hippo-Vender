@@ -10,9 +10,9 @@ const HomePage = () => {
   return (
     <div>
       <PopularCategories />
-      <StepProcess />
-      <AboutUs />
       <VendorBenefits />
+      <AboutUs />
+      <StepProcess />
       <CTASection />
       <TestimonialSlider />
       <Footer />
